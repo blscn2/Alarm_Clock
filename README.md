@@ -1,5 +1,5 @@
 # Brent Schultz
-## Software Engineering
+## Alarm Clock Project
 
 **_The clock shows the time of day. Using buttons, the user can set the hours and minutes fields individually, and choose between 12 and 24-hour display._**
 
